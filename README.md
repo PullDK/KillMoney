@@ -1,2 +1,2 @@
-# KillMoney-PullDK
+# KillMoney
 plugin que dá dinheiro ao matar players
