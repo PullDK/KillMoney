@@ -6,5 +6,7 @@ na config.yml você pode setar a quantidade de dinheiro que o jogador vai recebe
 ```yml
 # Mude só o mumero abaixo!
 moneyadd: 100
-
 ```
+## Dependencia:
+plugin de economia:
+[BedrockEconomy](https://github.com/cooldogedev/BedrockEconomy)
