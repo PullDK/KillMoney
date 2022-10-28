@@ -14,11 +14,9 @@ use pocketmine\event\Listener;
 class Main extends PluginBase{
 
 
-        public function onEnable(): void
-        {
-            $this->getServer()->getPluginManager()->registerEvents($this, $this);
-            $this->saveResource();
-        }
+       protected function onEnable() : void{  
+        $this->getLogger()->info("Plugin has been Enabled");
+         }
     
         public static function addMoney(Player $player, int $amount)
         {
