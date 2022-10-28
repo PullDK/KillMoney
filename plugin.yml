@@ -1,5 +1,7 @@
+---
 name: KillMoney
-api: 4.0.0
 version: 0.0.1
-author: Corentin503/PullDK
-main: Main
+main: PullDK\KillMoney\Main
+api: 4.10.0
+src-namespace-prefix: PullDK\KillMoney
+...
